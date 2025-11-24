@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572346824544",
+    "project_id": "smartstack-5bb46",
+    "storage_bucket": "smartstack-5bb46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572346824544:android:4bcfdfae666bd4f6cc9005",
+        "android_client_info": {
+          "package_name": "com.smartstack.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHGXBIUbD0ImWbFQ180IxxkhRCEVDtH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
